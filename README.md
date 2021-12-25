@@ -1,4 +1,5 @@
 # vue-storybook
+Motive behind this repo: boiler plate code for other programmers to start off with storybook
 
 ## Project setup
 ```
